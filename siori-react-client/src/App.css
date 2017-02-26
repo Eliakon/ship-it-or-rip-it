@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+form, form input {
+  text-align: center;
+}
+
+.books {
+  display: flex;
+  margin: 100px 10vw 0;
+}
+
+.book-character {
+  text-align: center;
+  width: 50%;
+}
+
+.book-character-name {
+  font-weight: bold;
+  font-size: 3em;
+}
